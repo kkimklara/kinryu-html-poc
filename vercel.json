@@ -4,7 +4,7 @@
     {
       "source": "/redirect",
       "destination": "https://kkimklara.github.io/kinryu-html-poc/wordpress-test.html",
-      "permanent": false
+      "statusCode": 302
     }
   ]
 }
